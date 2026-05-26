@@ -1,2 +1,5 @@
-# forbes-performance-analysis
-Interactive Power BI dashboard analyzing Forbes companies performance across industries, profits, assets, and market value.
+# Forbes Performance Dashboard
+
+This Power BI dashboard analyzes the performance of Forbes-listed companies using key business metrics such as Sales, Profit, Assets, and Market value, and Industry distribution.
+
+## Dashboard Preview
